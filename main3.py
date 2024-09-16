@@ -1,0 +1,2 @@
+class parrot:
+    speces= "birds"
